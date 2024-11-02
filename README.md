@@ -1,6 +1,7 @@
 # LITA_Sales-Analysis
+----
 
-### Project Title: Sales Data Analysis using Microsoft Excel
+### Project Title: Sales Data Analysis using Microsoft Excel, SQL, and Power BI
 ---
 
 ### Objective
