@@ -5,10 +5,10 @@ Project Title: Sales Data Analysis using Microsoft Excel
 
 Objective
 ###
-The main objective of this project is to analyse the sales performance of a retail store by exploring its sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends. Microsoft Excel formulars will be utilized for calculating key metrics and Pivot Tables for data summarization and visualization.
+The main objective of this project is to analyse the sales performance of a retail store by exploring its sales data to uncover key insights such as top-selling products, 
+regional performance, and monthly sales trends. Microsoft Excel formulars will be utilized for calculating key metrics and Pivot Tables for data summarization and visualization.
 
 Data Overview
-###
 Order ID: Identification code for each product sale 
 Customer ID: Unique identification code for each customer in the sales data 
 Product: The items sold
