@@ -44,17 +44,14 @@ To obtain the Total Sales or Total Revenue, use the formular:
 ![image](https://github.com/user-attachments/assets/f3027f2e-a48e-4e8a-acb4-8600abdf332f)
 
 ### Tools and Method Utilised
----
 1. Data Analysis: The Sales Data was analysed with Microsoft Excel with the by generating Pivot Tables which were used to organise, 
 summarize, and filter the data for easy understanding. 
 
 2. Data Visualization: Bar charts and Pie Charts were created in Excel for visual representation of key insights and report presentation.
 
 ### Steps and Methodology
----
 
 ### Data Preparation
----
 * Import the Sales Data into Excel,
 * Clean the Sales Data by checking for any missing values or irregularities. 
 
@@ -76,17 +73,14 @@ summarize, and filter the data for easy understanding.
 ![image](https://github.com/user-attachments/assets/f28e2a8c-48b4-4f83-97fc-6e754ee40728)
 
 ### How Data was used in SQL
----
 Queries were written to validate the Sales Data
 
 ### Tools & Method Utilised in SQL
----
 1. Data Analysis: A LITA_SalesDataPRJ database was first created and the Sales Data inported via the task bar in the database as a flat file (Microsoft Excel Comma Separated Values file) into SQL. The Sales Data was validated by different Query commands as shown below:
     
 ![image](https://github.com/user-attachments/assets/2f7b46b5-84ef-4e95-a23d-9e73d2795303)
 
 ### Steps and Methodology in SQL
----
 
 ### Data Preparation
 * Create database
@@ -95,6 +89,7 @@ Queries were written to validate the Sales Data
 
 1. Retrieve the total sales for each product category.
    ![image](https://github.com/user-attachments/assets/e3def7b7-0222-45dd-b986-906073b95046)
+The output of this query is a list of Product categories and their corresponding Total Sales amounts. From the output,  
 
 2. Find the number of sales transactions in each region.
 ![image](https://github.com/user-attachments/assets/61ce6b4a-9b5e-40ee-8e49-18181b6e325f)
@@ -119,11 +114,9 @@ Queries were written to validate the Sales Data
 ![image](https://github.com/user-attachments/assets/19400848-f36c-42ae-a14f-a0c4aeff0d55)
 
 ### How data was used in Power BI
----
 Power BI was used to convert the Microsoft Excel Sales Data into visuals on an interactive dashboard and build a business intelligent report 
 
 ### Steps and Methodology in Power BI
----
 
 ### Data Preparation
 * Import Microsoft Excel Sales Data Worksheet
@@ -131,6 +124,8 @@ Power BI was used to convert the Microsoft Excel Sales Data into visuals on an i
 * Model data
 * Carry out data Visualization
 * Present a Business Intelligent Report
+
+![image](https://github.com/user-attachments/assets/edcbec31-b1e6-4aca-bf3c-119c12e9c114)
 
 
   
