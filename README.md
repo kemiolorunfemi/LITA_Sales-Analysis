@@ -1,7 +1,7 @@
-# LITA_Sales Performance Analysis
+# LITA_Sales-Performance-Analysis
 ----
 
-### Project Title: Sales Performance Analysis using Microsoft Excel, SQL, and Power BI
+### Project Title: LITA_Sales Performance Analysis using Microsoft Excel, SQL, and Power BI
 ---
 
 ### Objective
@@ -77,7 +77,21 @@ summarize, and filter the data for easy understanding.
 
 ### How Data was used in SQL
 ---
-Queries were written to extract the following:
+Queries were written to validate the Sales Data
+
+### Tools & Method Utilised in SQL
+---
+1. Data Analysis: A LITA_SalesDataPRJ database was first created and the Sales Data inported via the task bar in the database as a flat file (Microsoft Excel Comma Separated Values file) into SQL. The Sales Data was validated by different Query commands as shown below:
+    
+![image](https://github.com/user-attachments/assets/2f7b46b5-84ef-4e95-a23d-9e73d2795303)
+
+### Steps and Methodology in SQL
+---
+
+### Data Preparation
+* Create database
+* Import flat file as Microsoft Excel Comma Separated Values file
+* Write Queries to validate the following
 
 1. Retrieve the total sales for each product category.
    ![image](https://github.com/user-attachments/assets/e3def7b7-0222-45dd-b986-906073b95046)
@@ -106,8 +120,20 @@ Queries were written to extract the following:
 
 ### How data was used in Power BI
 ---
+Power BI was used to convert the Microsoft Excel Sales Data into visuals on an interactive dashboard and build a business intelligent report 
+
+### Steps and Methodology in Power BI
+---
+
+### Data Preparation
+* Import Microsoft Excel Sales Data Worksheet
+* Clean data and query
+* Model data
+* Carry out data Visualization
+* Present a Business Intelligent Report
 
 
+  
 
 
 
