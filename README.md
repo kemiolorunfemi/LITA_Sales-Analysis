@@ -87,31 +87,48 @@ Queries were written to validate the Sales Data
 * Import flat file as Microsoft Excel Comma Separated Values file
 * Write Queries to validate the following
 
+SQL Query
+---
+create database LITA_SalesDataPRJ;
+![image](https://github.com/user-attachments/assets/1d3a5290-3441-4b66-a501-39ed3b06cc05)
+![image](https://github.com/user-attachments/assets/97ddeb04-89ea-4ea0-8755-c4fcdb349e97)
+
+select * from [dbo].[Sales Data]
+![image](https://github.com/user-attachments/assets/630e86a5-7e01-4b93-8ec6-f086121399bf)
+
 1. Retrieve the total sales for each product category.
-   ![image](https://github.com/user-attachments/assets/e3def7b7-0222-45dd-b986-906073b95046)
-The output of this query is a list of Product categories and their corresponding Total Sales amounts. From the output,  
+![image](https://github.com/user-attachments/assets/de6660ab-2b49-4f0a-b79b-56eb8077fc2d)
+
+The output of this query is a list of Product categories and their corresponding Total Sales amount. From the output, the revenue from the sale of each product was obtained. The sale of Shoes and Shirts returned the highest revenue, the company should seriously consider review of products sale and consider sales promotions, more adverts and other incentives that can help promote the shirts and shoes more while also finding out what the challenges are with the sale of Socks where the least Revenue was recorded.
 
 2. Find the number of sales transactions in each region.
-![image](https://github.com/user-attachments/assets/61ce6b4a-9b5e-40ee-8e49-18181b6e325f)
+![image](https://github.com/user-attachments/assets/a545a844-93f5-4e49-8715-24c810239117)
+This query gave an output where each Region returned the same count of Sales Transactions. This is a valuable information for understanding the Sales Distribution across different Regions, furthermore it will help the company take strategic decisions in future.
 
 3. Find the highest-selling product by total sales value.
-![image](https://github.com/user-attachments/assets/ff9bc9ce-b2ce-4488-b0c6-f8acc3a340f1)
+![image](https://github.com/user-attachments/assets/d3f99767-2e56-4026-88fb-6dce5aa01af9)
+The sale of Shoes returned the highest revenue for this query, the company should seriously consider a review of product sale and consider sales promotions, more adverts and other incentives that can help promote the shoes more and more.
    
 4. Calculate total revenue per product.
-![image](https://github.com/user-attachments/assets/6098e830-09d4-4fb4-9629-6060d90278fa)
+![image](https://github.com/user-attachments/assets/041cc0a2-007a-4c02-9c96-eb38addd3dbd)
+
    
 5. Calculate monthly sales total for the current year.
-![image](https://github.com/user-attachments/assets/48605ade-999b-48fc-b8c8-29ce7d588ae2)
-![image](https://github.com/user-attachments/assets/3fc67383-f73e-4848-889e-91169fc7b145)
+![image](https://github.com/user-attachments/assets/1bd7330a-3715-42ae-bffa-1093881eb673)
+![image](https://github.com/user-attachments/assets/064b1451-682d-4129-bbda-6888b93a3af9)
+
 
 6. Find the top 5 customers by total purchase amount.
-![image](https://github.com/user-attachments/assets/d4a34850-8d4b-429d-8d63-0046c164defd)
+![image](https://github.com/user-attachments/assets/3a48bae6-85ad-4b1e-9335-1be14488a686)
+
 
 7. Calculate the percentage of total sales contributed by each region.
-![image](https://github.com/user-attachments/assets/63cc8778-0a13-4de7-8921-fd383bc63f0d)
+![image](https://github.com/user-attachments/assets/78ba1315-b515-42fb-8067-ca7d40ea4228)
+
 
 8. Identify products with no sales in the last quarter.
-![image](https://github.com/user-attachments/assets/19400848-f36c-42ae-a14f-a0c4aeff0d55)
+![image](https://github.com/user-attachments/assets/75a3b6c8-cc9e-44b5-8211-c6dd4bce1644)
+
 
 ### How data was used in Power BI
 Power BI was used to convert the Microsoft Excel Sales Data into visuals on an interactive dashboard and build a business intelligent report 
@@ -120,13 +137,12 @@ Power BI was used to convert the Microsoft Excel Sales Data into visuals on an i
 
 ### Data Preparation
 * Import Microsoft Excel Sales Data Worksheet
+![image](https://github.com/user-attachments/assets/edcbec31-b1e6-4aca-bf3c-119c12e9c114)
+
 * Clean data and query
 * Model data
 * Carry out data Visualization
 * Present a Business Intelligent Report
-
-![image](https://github.com/user-attachments/assets/edcbec31-b1e6-4aca-bf3c-119c12e9c114)
-
 
   
 
