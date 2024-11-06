@@ -72,6 +72,8 @@ summarize, and filter the data for easy understanding.
 ### 5. Average Sales by Product
 ![image](https://github.com/user-attachments/assets/f28e2a8c-48b4-4f83-97fc-6e754ee40728)
 
+![image](https://github.com/user-attachments/assets/3e9db45b-ce02-4e39-a12f-ed762013cb8d)
+
 ![image](https://github.com/user-attachments/assets/21e9db4e-fdf7-4792-9bf1-327dec30827d)
 
 ### How Data was used in SQL
